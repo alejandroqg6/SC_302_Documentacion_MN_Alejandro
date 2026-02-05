@@ -1,1 +1,1 @@
-# SC_302_Documentacion_MN_Alejandro
+Esta es mi primera practica con GitHub
